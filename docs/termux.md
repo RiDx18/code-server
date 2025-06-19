@@ -27,12 +27,7 @@
 
 ## NPM Installation
 
-1. Get [Termux](https://f-droid.org/en/packages/com.termux/) from **F-Droid**.
-
-2. We will now change using the following command.
-
-```sh
-termux-change-repo
+1.Termux change repo
 ```
 
 Now select `Main Repository` then change repo to `Mirrors by Grimler Hosted on grimler.se`.
